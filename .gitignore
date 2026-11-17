@@ -1,0 +1,19 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local datasets and generated notebook exports
+starter/data/
+starter/Recommendations_with_IBM.html
+starter/Recommendations_with_IBM.pdf
+
+# Local settings and credentials
+.DS_Store
+.env
+.env.*
+!.env.example
+.aws/

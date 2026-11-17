@@ -1,0 +1,9 @@
+# Packages imported by the notebook.
+pandas
+numpy
+matplotlib
+scikit-learn
+
+# Notebook interface and export support.
+notebook
+nbconvert
