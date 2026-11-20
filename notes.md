@@ -1,4 +1,4 @@
-## Conceopts to polish
+## Concepts to polish
 
 - .crosstab()
 - .transpose()
